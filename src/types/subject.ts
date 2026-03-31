@@ -1,1 +1,0 @@
-export type Subject = "KOREAN" | "ENGLISH" | "MATH";
